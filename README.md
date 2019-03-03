@@ -1,4 +1,5 @@
-#How to setup heroku-cli on my arm
+#How to setup heroku-cli on my arm smartphone using Termux
+
 0. apt install wget git nodejs nodejs-dev
 1. termux-chroot
 2. cd /
