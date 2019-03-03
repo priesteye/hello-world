@@ -1,6 +1,6 @@
 #How to setup heroku-cli on my arm smartphone using Termux
 
-0. apt install wget git nodejs nodejs-dev
+0. apt install wget git proot nodejs nodejs-dev
 1. termux-chroot
 2. cd /
 3. wget https://cli-assets.heroku.com/branches/stable/heroku-linux-arm.tar.gz
